@@ -2,11 +2,12 @@
 
 # Description du projet
 
-Ce projet analyse le lien entre le bonheur moyen dans les pays et le nombre de termes utilisés pour exprimer le concept de bonheur. Il utilise des datasets sur les langues parlées par pays et les scores de bonheur moyens des pays.
+Ce projet explore le lien entre le score moyen de bonheur des pays et la richesse lexicale liée au concept de bonheur. L'objectif est d'étudier si les pays considérés comme les plus heureux disposent d'un vocabulaire plus étendu pour exprimer le bonheur. Pour ce faire, nous utilisons des datasets contenant des informations sur les langues parlées dans chaque pays ainsi que les scores moyens de bonheur des pays entre 2013 et 2023.
 
 # Attention
-Merci de télécharger depuis ce repository GitHub les datasets suivants : 
+Merci de télécharger depuis ce repository GitHub les datasets suivants :
+
 - World Happiness Index by Reports 2013-2023 no nulls.csv
 - countries-languages.csv
-  
-pour une fois dans le Google Colab, les séléctionner quand cela est nécessaire. 
+
+Une fois dans Google Colab, veillez à les sélectionner lorsque cela est demandé pour garantir le bon fonctionnement du projet.
